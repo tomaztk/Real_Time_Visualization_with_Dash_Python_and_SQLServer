@@ -28,7 +28,14 @@ git clone https://github.com/tomaztk/Real_Time_Visualization_with_Dash_Python_an
 2.  In your local Microsoft SQL Server run the file: `Real-Time Stats Visualization.sql`
 3.  Run your Python environment and `{sudo} pip install dash`
 4.  When Dash is installed, run the file: `Real_TimeStatsVisualizationWithDash.py`
-5.  Open your web browser pointing to your localhost.
+5.  Change connection string in Python file, pointing to your local database server.
+
+``` Python
+
+    sql_conn = connectSQLServer('ODBC Driver 13 for SQL Server', 'MyMSSQL\Database', 'UserName', 'Pa$$w0rd') 
+    cursor = sql_conn.cursor()
+```     
+7.  Open your web browser pointing to your localhost.
 
 
 ## Blogpost
