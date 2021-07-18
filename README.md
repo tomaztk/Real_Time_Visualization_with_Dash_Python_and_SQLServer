@@ -35,7 +35,7 @@ git clone https://github.com/tomaztk/Real_Time_Visualization_with_Dash_Python_an
     sql_conn = connectSQLServer('ODBC Driver 13 for SQL Server', 'MyMSSQL\Database', 'UserName', 'Pa$$w0rd') 
     cursor = sql_conn.cursor()
 ```     
-7.  Open your web browser pointing to your localhost.
+6.  Open your web browser pointing to your localhost.
 
 
 ## Blogpost
