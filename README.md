@@ -33,3 +33,8 @@ git clone https://github.com/tomaztk/Real_Time_Visualization_with_Dash_Python_an
 
 ## Blogpost
 Originally posted on ([blog](https://tomaztsql.wordpress.com/2018/06/18/real-time-data-visualization-with-sql-server-and-python-dash/)). Read blogpost for additional information.
+
+
+## Video
+
+![Dash Process](https://github.com/tomaztk/Real_Time_Visualization_with_Dash_Python_and_SQLServer/blob/master/ScreenCaptureProject1.mp4)
